@@ -1,2 +1,1 @@
-# JMP3_BDD
-Behavior Driven Development
+# Behavior Driven Development
