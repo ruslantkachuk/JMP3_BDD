@@ -13,6 +13,9 @@ Spring Boot (web, test, jpa), HSQLDB, Cucumber, Gradle
 ### TASK GENERAL INFORMATION
 Should be created simple CRUD application with one entity and covered by the cucumber auto tests for the REST API.
 
+### CUCUMBER REPORT
+Report could be found into a build directory: build/cucumber/index.html
+
 ### REST API:
 
 **1.Person**
