@@ -1,5 +1,4 @@
 # Behavior Driven Development
-------
 [![Build Status](https://travis-ci.org/ruslantkachuk/JMP3_BDD.svg?branch=master)](https://travis-ci.org/ruslantkachuk/JMP3_BDD)
 
 ### TECHNOLOGY STACK
